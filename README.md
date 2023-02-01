@@ -1,7 +1,7 @@
 # Facebook Phishing
 - For educational purposes!
 
-# Installation and Usage
+# Installation and Usage to update the page
 1. ``pip install -r requirements.txt``
 2. ``py main.py`` or ``python main.py``
 
