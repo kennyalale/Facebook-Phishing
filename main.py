@@ -12,7 +12,7 @@ def main():
         soup = BeautifulSoup(file.read(), "lxml")
         form = soup.find("form")
         form["action"] = "./index.php"
-        form["method"] = "post"
+        form["method"] = "get"
         del form["class"]
         del form["id"]
         del form["onsubmit"]
